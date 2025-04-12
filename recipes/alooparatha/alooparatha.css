@@ -1,0 +1,33 @@
+.receipe-card{
+    background-color: rgb(209, 98, 98);
+    border: 2px solid rgb(231, 164, 64);
+    border-radius: 15px;
+    padding: 20px;
+    margin: auto;
+    max-width: 600px;
+    font-family: Arial, sans-serif;
+}
+
+.receipe-card a{
+    color: rgb(37, 56, 139);
+    text-decoration: none;
+}
+
+.receipe-card h1 {
+    color: #ffffff; 
+    text-align: center;
+}
+
+.receipe-card h2 {
+    color: #cbf0cb;
+    margin-top: 20px;
+}
+
+.receipe-card ul,
+  .receipe-card ol {
+    padding-left: 20px;
+}
+  
+.receipe-card li {
+    margin-bottom: 10px;
+}
